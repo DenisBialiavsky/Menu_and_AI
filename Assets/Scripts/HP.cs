@@ -8,7 +8,7 @@ public class HP : MonoBehaviour
 {
     [Tooltip("Function not work")]
     public int hp;
-    public string SceneName = "2";
+    public string SceneName;
 
 
 
@@ -17,6 +17,7 @@ public class HP : MonoBehaviour
     {
         hp = 4;
         Debug.Log("HP:" + hp);
+
     }
 
     // Update is called once per frame
@@ -48,5 +49,6 @@ public class HP : MonoBehaviour
           
         }
     }
+
 
 }

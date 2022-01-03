@@ -650,6 +650,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hp: 6
+  SceneName: 2
 --- !u!1001 &584284773
 PrefabInstance:
   m_ObjectHideFlags: 0
